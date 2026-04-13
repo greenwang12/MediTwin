@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Heart Disease",
+    "organ": "heart",
+    "description": "Reduced blood flow to the heart due to blocked arteries.",
+    "progression": [
+      "Mild chest discomfort during activity",
+      "Frequent chest pain and fatigue",
+      "High risk of heart attack"
+    ],
+    "improvement": [
+      "Regular exercise",
+      "Healthy diet",
+      "Medication adherence"
+    ]
+  },
+  {
+    "name": "Liver Disease",
+    "organ": "liver",
+    "description": "Damage to liver affecting detoxification and metabolism.",
+    "progression": [
+      "Fatigue and weakness",
+      "Yellowing of skin (jaundice)",
+      "Severe liver damage"
+    ],
+    "improvement": [
+      "Avoid alcohol",
+      "Balanced diet",
+      "Medical treatment"
+    ]
+  },
+  {
+    "name": "Food Poisoning",
+    "organ": "stomach",
+    "description": "Illness caused by eating contaminated food.",
+    "progression": [
+      "Nausea and vomiting",
+      "Diarrhea and cramps",
+      "Dehydration risk"
+    ],
+    "improvement": [
+      "Drink fluids",
+      "Rest well",
+      "Eat light food"
+    ]
+  },
+  {
+    "name": "Gastritis",
+    "organ": "stomach",
+    "description": "Inflammation of the stomach lining causing pain.",
+    "progression": [
+      "Stomach irritation",
+      "Burning pain",
+      "Nausea and bloating"
+    ],
+    "improvement": [
+      "Avoid spicy food",
+      "Eat small meals",
+      "Take antacids"
+    ]
+  },
+  {
+    "name": "Migraine",
+    "organ": "brain",
+    "description": "Severe headache with nausea and sensitivity to light.",
+    "progression": [
+      "Mild headache",
+      "Throbbing pain",
+      "Light sensitivity"
+    ],
+    "improvement": [
+      "Rest in dark room",
+      "Stay hydrated",
+      "Take medication"
+    ]
+  },
+  {
+    "name": "Lung Disease",
+    "organ": "lungs",
+    "description": "Condition affecting breathing and oxygen supply.",
+    "progression": [
+      "Persistent cough",
+      "Breathing difficulty",
+      "Severe lung damage"
+    ],
+    "improvement": [
+      "Avoid smoke and pollution",
+      "Use inhalers",
+      "Regular checkups"
+    ]
+  },
+  {
+    "name": "Kidney Disease",
+    "organ": "kidneys",
+    "description": "Reduced kidney function affecting waste removal.",
+    "progression": [
+      "Fatigue",
+      "Swelling in legs",
+      "Kidney failure risk"
+    ],
+    "improvement": [
+      "Stay hydrated",
+      "Reduce salt intake",
+      "Medical care"
+    ]
+  },
+  {
+    "name": "Infection",
+    "organ": "immune",
+    "description": "Body fighting harmful bacteria or viruses.",
+    "progression": [
+      "Fever and weakness",
+      "Spread of infection",
+      "Severe complications"
+    ],
+    "improvement": [
+      "Take medicines",
+      "Rest well",
+      "Stay hydrated"
+    ]
+  },
+  {
+    "name": "Allergy",
+    "organ": "immune",
+    "description": "Immune system overreacts to harmless substances.",
+    "progression": [
+      "Sneezing",
+      "Skin irritation",
+      "Breathing issues"
+    ],
+    "improvement": [
+      "Avoid triggers",
+      "Take antihistamines",
+      "Consult doctor"
+    ]
+  }
+]
